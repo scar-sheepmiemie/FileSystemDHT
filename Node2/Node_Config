@@ -1,0 +1,5 @@
+SuperNode_IP=128.101.37.55
+SuperNode_Port=9090
+Local_IP=128.101.37.57
+Local_Port=9090
+Enable_PostJoin=1
